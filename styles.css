@@ -6,6 +6,7 @@ body {
 	margin: 0;
 	font-family: 'Open Sans', sans-serif;
 	background-image: url('https://source.unsplash.com/1600x900/daily?landscape');
+	background-size: cover;
 }
 
 .card {
